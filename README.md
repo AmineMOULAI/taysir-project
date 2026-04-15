@@ -33,7 +33,7 @@ npx prisma db seed
 ```
 
 **Accès par défaut :**
-- **Email** : `admin@taysir.dz`
+- **Email** : `z`
 - **Mot de passe** : `Taysir2026!`
 
 ### 3. Lancement
